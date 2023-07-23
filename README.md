@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 Purpose of the analysis was to build a model that could identify the creditworthiness of borrowers based on a dataset of historical lending activity from a peer-to-peer lending services company .
-The dataset contained information about the size of the loan, interest rate, borrow's income, date to income ratio, number of accountsderofatory marks, and total debt. The goal was to predict the status of each loan: healthy loan or high-risk loan.
+The dataset contained information about the size of the loan, interest rate, borrow's income, date to income ratio, number of accounts, derogatory marks, and total debt. The goal was to predict the status of each loan: healthy loan or high-risk loan.
 
 ## Stages of the machine learning process for this analysis:
 - Created the labels and the features.
@@ -17,6 +17,7 @@ The dataset contained information about the size of the loan, interest rate, bor
  - Accuracy: 94%
  - Precision: 100% for healthy loans and 87% for high-risk loans
  - Recall: 100% for healthy loans and 89% for high-risk loans
+ 
 **Machine Learning Model 2:Logistic Regression Model with the Reasampled Training  Data**
  - Accuracy: 99%
  - Precision: 100% for healthy loans and 87% for high-risk loans
