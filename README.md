@@ -25,7 +25,7 @@ The dataset contained information about the size of the loan, interest rate, bor
  
 ### Summary
 
-Machine Learning Model 2 performs best in terms of the total accuracy score and the recall score for high-risk loans. As predicting high-risk loans is more important for this analysis, we can conclude that the better recall score for *1's* and the significantly lower number of misclassified high-risk loans (2 in Model 2 vs 67 in Model 1) make Model 2 a better fit for this analysis. 
+Machine Learning Model 2 performs best in terms of the total accuracy score and the recall score for high-risk loans. As predicting high-risk loans is more important for this analysis, we can conclude that the better recall score for *1's* and the significantly lower number of misclassified high-risk loans make Model 2 a better fit for this analysis. 
 
 
 
