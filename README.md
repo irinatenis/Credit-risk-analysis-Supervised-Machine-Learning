@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit risk analysis
 
 ## Overview of the Analysis
 Purpose of the analysis was to build a model that could identify the creditworthiness of borrowers based on a dataset of historical lending activity from a peer-to-peer lending services company .
